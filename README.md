@@ -11,7 +11,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -48,16 +48,18 @@
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![Fatima's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fatimaswelem&show_icons=true&theme=nord&border_color=000000#gh-dark-mode-only)](https://github.com/fatimaswelem/github-readme-stats#gh-dark-mode-only)
 [![Fatima's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fatimaswelem&show_icons=true&theme=shadow_red#gh-light-mode-only)](https://github.com/fatimaswelem/github-readme-stats#gh-light-mode-only)
 
+
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaswelem&theme=nord&hide_progress=true&border_color=000000">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaswelem&theme=shadow_red&hide_progress=true">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaswelem&theme=nord&hide_progress=true&border_color=000000">
 </picture>
-
+-->
 ---
-
+<!-- ## Projects: -->
 
