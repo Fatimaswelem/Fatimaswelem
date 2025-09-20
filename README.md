@@ -6,7 +6,7 @@
   🤖 Exploring AI/ML fundamentals and data science principles.<br/>
   💼 Experienced in project planning and SDLC documentation.<br/>
   👩🏻‍💻 Open to innovative collaborations combining code and design.<br/>
-  📫 Let's build something amazing together! [Reach By Email](thisisfatimasemail@gmail.com)<br/>
+  📫 Let's build something amazing together!<br/>
   🔗 Connecting on LinkedIn:  [My LinkedIn Profile](www.linkedin.com/in/fatimaswelem)<br/>
 
 
