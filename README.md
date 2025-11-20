@@ -47,11 +47,11 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 
-
+<!--
 ## 📊 GitHub Stats:
 [![Fatima's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fatimaswelem&show_icons=true&theme=nord&border_color=000000#gh-dark-mode-only)](https://github.com/fatimaswelem/github-readme-stats#gh-dark-mode-only)
 [![Fatima's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fatimaswelem&show_icons=true&theme=shadow_red#gh-light-mode-only)](https://github.com/fatimaswelem/github-readme-stats#gh-light-mode-only)
-
+-->
 
 <!--
 <picture>
